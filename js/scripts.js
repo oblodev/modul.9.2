@@ -12,5 +12,6 @@ if (allNames.indexOf(newName) === -1) {
     var x = allNames.push('Marian');
 }
 
+
 console.log(allNames); 
 
